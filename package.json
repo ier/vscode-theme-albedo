@@ -1,0 +1,16 @@
+{
+    "name": "theme-albedo",
+    "displayName": "Albedo theme",
+    "description": "",
+    "version": "0.1.0",
+    "publisher": "ier",
+    "license": "MIT",
+    "maintainers": ["Ivan Erakhtin <ivan.erakhtin@gmail.com>"],
+    "engines": {"vscode": "^1.22.0"},
+    "categories": ["Themes"],
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ier/vscode-theme-albedo.git"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "Albedo",
+    "tokenColors":[
+        {
+            "name": "...",
+            "scope": "keyword.operator",
+            "settings": {
+                "foreground": "#FFF"
+            }
+        }
+    ],
+    "colors": {
+
+    }
+}
+
+// TODO:
+// "editor.tokenColorCustomizations": {
+//     "functions": { "fontStyle": "bold", "foreground": "#25437afa" },
+//     "keywords": { "fontStyle": "bold", "foreground": "#000" },
+//     "strings":  { "foreground": "#3a3a3a" }
+// }
