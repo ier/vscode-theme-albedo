@@ -1,2 +1,2 @@
-# vscode-theme-albedo
-TBD L8R
+# Albedo Theme
+VSCode light monochrome theme with minimal highlighting.
