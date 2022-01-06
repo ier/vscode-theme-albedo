@@ -3,146 +3,90 @@
     "name": "Albedo",
     "tokenColors":[
         {
-            "name": "Comments",
             "scope": [
                 "comment",
-                "punctuation.definition.comment"
-            ],
-            "settings": {
-                "foreground": "#888"
-            }
-        },
-        {
-            "name": "Comments: Documentation",
-            "scope": [
+                "punctuation.definition.comment",
                 "comment.documentation",
-                "comment.block.documentation"
+                "comment.block.documentation",
+                "comment.block.preprocessor"
             ],
             "settings": {
                 "foreground": "#888"
             }
         },
         {
-            "name": "Comments: Preprocessor",
-            "scope": "comment.block.preprocessor",
-            "settings": {
-                "foreground": "#888"
-            }
-        },
-        {
-            "name": "Invalid - Illegal",
             "scope": "invalid.illegal",
             "settings": {
                 "foreground": "#f31313"
             }
         },
         {
-            "name": "Keywords",
             "scope": [
                 "keyword",
                 "storage"
             ],
             "settings": {
-                "fontStyle": "bold",
                 "foreground": "#000"
             }
         },
         {
-            "name": "Language Constants",
-            "scope": [
-                "constant.language",
-                "support.constant",
-                "variable.language"
-            ],
-            "settings": {}
-        },
-        {
-            "name": "Operators",
-            "scope": "keyword.operator",
-            "settings": {}
-        },
-        {
-            "name": "Types",
-            "scope": [
-                "storage.type",
-                "support.type"
-            ],
-            "settings": {}
-        },
-        {
-            "name": "Variables",
-            "scope": [
-                "variable",
-            ],
-            "settings": {}
-        },
-        {
-            "name": "Functions",
             "scope": [
                 "entity.name.function",
                 "support.function"
             ],
             "settings": {
-                "fontStyle": "bold",
                 "foreground": "#25437afa"
             }
         },
         {
-            "name": "Classes",
-            "scope": [
-                "entity.name.type",
-                "support.class"
-            ],
-            "settings": {
-                "fontStyle": "underline",
-            }
-        },
-        {
-            "name": "Exceptions",
-            "scope": "entity.name.exception",
-            "settings": {}
-        },
-        {
-            "name": "Sections",
-            "scope": "entity.name.section",
-            "settings": {
-                "fontStyle": "underline"
-            }
-        },
-        {
-            "name": "Numbers, Characters",
-            "scope": [
-                "constant.numeric",
-                "constant.character",
-                "constant"
-            ],
-            "settings": {}
-        },
-        {
-            "name": "Strings",
             "scope": "string",
             "settings": {
-                "foreground": "#3a3a3a"
+                "foreground": "#662e2e" 
             }
         },
         {
-            "name": "Strings: Escape Sequences",
-            "scope": "constant.character.escape",
-            "settings": {}
+            "scope": [
+                "meta.paragraph.markdown",
+                "meta.structure.array.json",
+                "meta.structure.array.json.comments",
+                "meta.structure.dictionary.json",
+                "meta.structure.dictionary.json.comments",
+                "meta.structure.dictionary.value.json",
+                "meta.structure.dictionary.value.json.comments",
+                "source.json",
+                "source.json.comments",
+                "string.json",
+                "string.quoted.double.json",
+                "string.quoted.double.json.comments",
+                "support.type.property-name.json",
+                "support.type.property-name.json.comments",
+                "text.html.markdown"
+            ],
+            "settings": {
+                "foreground": "#000"
+            }
         },
         {
-            "name": "Strings: Regular Expressions",
-            "scope": "string.regexp",
-            "settings": {}
-        },
-        {
-            "name": "Strings: Symbols",
-            "scope": "constant.other.symbol",
-            "settings": {}
-        },
-        {
-            "name": "Punctuation",
-            "scope": "punctuation",
+            "scope": [
+                "constant.language",
+                "support.constant",
+                "variable.language",
+                "keyword.operator",
+                "storage.type",
+                "support.type",
+                "variable",
+                "entity.name.type",
+                "support.class",
+                "entity.name.exception",
+                "entity.name.section",
+                "constant.numeric",
+                "constant.character",
+                "constant",
+                "constant.character.escape",
+                "string.regexp",
+                "constant.other.symbol",
+                "punctuation"
+            ],
             "settings": {}
         }
     ],
@@ -150,7 +94,7 @@
         "activityBar.background": "#EEE",
         "activityBar.foreground": "#007ADD",
         "editor.background": "#FFF",
-        "editor.foreground": "#000",
+        "editor.foreground": "#000000bd",
         "editor.findMatchBackground": "#FFCC6D",
         "editor.lineHighlightBackground": "#00000004",
         "editor.selectionBackground": "#B3D7FF",
@@ -159,8 +103,8 @@
         "editorCursor.foreground": "#007ADD",
         "editorGroupHeader.tabsBackground": "#F0F0F0",
         "editorLineNumber.foreground": "#9DA28A",
-        "panel.background": "#EEE",
-        "sideBar.background": "#EEE",
+        "panel.background": "#FFF",
+        "sideBar.background": "#f7f7f7",
         "statusBar.background": "#DDDDDD",
         "statusBar.foreground": "#424242",
         "statusBar.debuggingBackground": "#FFCC6D",
