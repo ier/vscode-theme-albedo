@@ -8,6 +8,11 @@
     "maintainers": ["Ivan Erakhtin <ivan.erakhtin@gmail.com>"],
     "engines": {"vscode": "^1.22.0"},
     "categories": ["Themes"],
+    "contributes": {
+        "themes": [{"label": "Albedo",
+                    "uiTheme": "vs",
+                    "path": "./theme/albedo-color-theme.json"}]
+    },
     "icon": "icon.png",
     "repository": {
         "type": "git",
