@@ -1,6 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "Albedo",
+    "type": "light",
     "tokenColors":[
         {
             "scope": [
@@ -35,13 +36,13 @@
                 "support.function"
             ],
             "settings": {
-                "foreground": "#25437afa"
+                "foreground": "#074183fa"
             }
         },
         {
             "scope": "string",
             "settings": {
-                "foreground": "#662e2e" 
+                "foreground": "#7a1717" 
             }
         },
         {
