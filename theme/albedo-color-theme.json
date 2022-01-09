@@ -41,6 +41,12 @@
             }
         },
         {
+            "scope": "variable.other.constant",
+            "settings": {
+                "foreground": "#5e5e5e"
+            }
+        },
+        {
             "scope": "string",
             "settings": {
                 "foreground": "#7a1717" 
@@ -96,7 +102,7 @@
         "activityBar.background": "#EEE",
         "activityBar.foreground": "#007ADD",
         "editor.background": "#FFF",
-        "editor.foreground": "#000000bd",
+        "editor.foreground": "#000000c0",
         "editor.findMatchBackground": "#FFCC6D",
         "editor.lineHighlightBackground": "#00000004",
         "editor.selectionBackground": "#B3D7FF",
