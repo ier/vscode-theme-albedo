@@ -37,19 +37,19 @@
                 "support.function"
             ],
             "settings": {
-                "foreground": "#074183fa"
+                "foreground": "#000"
             }
         },
         {
             "scope": "variable.other.constant",
             "settings": {
-                "foreground": "#5e5e5e"
+                "foreground": "#000"
             }
         },
         {
             "scope": "string",
             "settings": {
-                "foreground": "#7a1717" 
+                "foreground": "#94873c" 
             }
         },
         {
@@ -102,7 +102,7 @@
         "activityBar.background": "#EEE",
         "activityBar.foreground": "#007ADD",
         "editor.background": "#FFF",
-        "editor.foreground": "#000000c0",
+        "editor.foreground": "#000000", // INFO: "#000000c0" value is my hint to get rid of bold font style.
         "editor.findMatchBackground": "#FFCC6D",
         "editor.lineHighlightBackground": "#00000004",
         "editor.selectionBackground": "#B3D7FF",

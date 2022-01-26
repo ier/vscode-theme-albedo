@@ -3,6 +3,9 @@
 2. sudo pacman -S npm
 3. sudo npm install -g vsce
 
+_. vsce package
+_. vsce publish
+
 Ctrl + P, > Developer: Inspect Editor Tokens and Scopes
 
 
