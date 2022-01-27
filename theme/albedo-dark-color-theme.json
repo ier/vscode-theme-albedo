@@ -1,7 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "Albedo",
-    "type": "light",
+    "type": "dark",
     "semanticHighlighting": true,
     "tokenColors":[
         {
@@ -28,7 +28,7 @@
                 "storage"
             ],
             "settings": {
-                "foreground": "#000"
+                "foreground": "#fff"
             }
         },
         {
@@ -37,13 +37,13 @@
                 "support.function"
             ],
             "settings": {
-                "foreground": "#000"
+                "foreground": "#fff"
             }
         },
         {
             "scope": "variable.other.constant",
             "settings": {
-                "foreground": "#000"
+                "foreground": "#fff"
             }
         },
         {
@@ -71,7 +71,7 @@
                 "text.html.markdown"
             ],
             "settings": {
-                "foreground": "#000"
+                "foreground": "#fff"
             }
         },
         {
@@ -99,22 +99,23 @@
         }
     ],
     "colors": {
-        "activityBar.background": "#EEE",
-        "activityBar.foreground": "#505152",
-        "editor.background": "#FFF",
-        "editor.foreground": "#000000", // INFO: "#000000c0" value is my hint to get rid of bold font style.
+        "activityBar.background": "#000",
+        "activityBar.foreground": "#777777",
+        "editor.background": "#000",
+        "editor.foreground": "#fff",
         "editor.findMatchBackground": "#FFCC6D",
-        "editor.lineHighlightBackground": "#00000004",
-        "editor.selectionBackground": "#B3D7FF",
-        "editor.selectionHighlightBackground": "#E1E1E1",
+        "editor.lineHighlightBackground": "#7d46fc14",
+        "editor.selectionBackground": "#7d46fc7f",
+        "editor.selectionHighlightBackground": "#ff99004c",
         "editor.findMatchHighlightBackground": "#FEE8A6",
-        "editorCursor.foreground": "#007ADD",
-        "editorGroupHeader.tabsBackground": "#F0F0F0",
-        "editorLineNumber.foreground": "#9DA28A",
-        "panel.background": "#FFF",
-        "sideBar.background": "#f7f7f7",
-        "statusBar.background": "#DDDDDD",
-        "statusBar.foreground": "#424242",
+        "editorCursor.foreground": "#94873c",
+        "editorGroupHeader.tabsBackground": "#000",
+        "editorGroupHeader.tabsBorder": "#0000",
+        "editorLineNumber.foreground": "#363636",
+        "panel.background": "#000",
+        "sideBar.background": "#000",
+        "statusBar.background": "#000",
+        "statusBar.foreground": "#DDD",
         "statusBar.debuggingBackground": "#FFCC6D",
         "statusBar.debuggingForeground": "#000",
         "statusBar.noFolderBackground": "#000",

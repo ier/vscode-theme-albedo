@@ -2,7 +2,7 @@
     "name": "theme-albedo",
     "displayName": "Albedo",
     "description": "Light monochrome theme with minimal highlighting",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "publisher": "ier",
     "license": "MIT",
     "maintainers": ["Ivan Erakhtin <ivan.erakhtin@gmail.com>"],
@@ -11,7 +11,10 @@
     "contributes": {
         "themes": [{"label": "Albedo",
                     "uiTheme": "vs",
-                    "path": "./theme/albedo-color-theme.json"}]
+                    "path": "./theme/albedo-color-theme.json"}, 
+                   {"label": "Albedo Dark",
+                    "uiTheme": "vs-dark",
+                    "path": "./theme/albedo-dark-color-theme.json"}]
     },
     "icon": "icon.png",
     "repository": {
