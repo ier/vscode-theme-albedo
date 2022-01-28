@@ -102,7 +102,7 @@
         "activityBar.background": "#EEE",
         "activityBar.foreground": "#505152",
         "editor.background": "#FFF",
-        "editor.foreground": "#000000", // INFO: "#000000c0" value is my hint to get rid of bold font style.
+        "editor.foreground": "#000000c0",
         "editor.findMatchBackground": "#FFCC6D",
         "editor.lineHighlightBackground": "#00000004",
         "editor.selectionBackground": "#B3D7FF",

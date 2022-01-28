@@ -9,9 +9,9 @@
     "engines": {"vscode": "^1.22.0"},
     "categories": ["Themes"],
     "contributes": {
-        "themes": [{"label": "Albedo",
+        "themes": [{"label": "Albedo Light",
                     "uiTheme": "vs",
-                    "path": "./theme/albedo-color-theme.json"}, 
+                    "path": "./theme/albedo-light-color-theme.json"}, 
                    {"label": "Albedo Dark",
                     "uiTheme": "vs-dark",
                     "path": "./theme/albedo-dark-color-theme.json"}]
