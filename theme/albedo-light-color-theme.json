@@ -101,6 +101,8 @@
     "colors": {
         "activityBar.background": "#EEE",
         "activityBar.foreground": "#505152",
+        "activityBarBadge.background": "#4e4e4e",
+        "activityBarBadge.foreground": "#fff",
         "editor.background": "#FFF",
         "editor.foreground": "#000000c0",
         "editor.findMatchBackground": "#FFCC6D",
