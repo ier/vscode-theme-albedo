@@ -138,6 +138,10 @@
         "terminal.ansiBrightMagenta": "#E64CE6",
         "terminal.ansiBrightRed": "#F05050",
         "terminal.ansiBrightYellow": "#FFBC5D",
-        "editorRuler.foreground": "#202020"
+        "editorRuler.foreground": "#202020",
+        "titleBar.activeBackground": "#000",
+        "titleBar.activeForeground": "#adadad",
+        "titleBar.inactiveBackground": "#000",
+        "titleBar.inactiveForeground": "#313131"
     }
 }
