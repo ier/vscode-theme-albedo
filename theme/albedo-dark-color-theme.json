@@ -101,10 +101,12 @@
     "colors": {
         "activityBar.background": "#000",
         "activityBar.foreground": "#777777",
+        "activityBarBadge.background": "#4e4e4e",
+        "activityBarBadge.foreground": "#fff",
         "editor.background": "#000",
         "editor.foreground": "#ffffffc0",
         "editor.findMatchBackground": "#705728",
-        "editor.lineHighlightBackground": "#7d46fc14",
+        "editor.lineHighlightBackground": "#2525257f",
         "editor.selectionBackground": "#5a5a5a7f",
         "editor.selectionHighlightBackground": "#8a8a8a81",
         "editor.findMatchHighlightBackground": "#64625d",
@@ -135,6 +137,7 @@
         "terminal.ansiBrightGreen": "#60CB00",
         "terminal.ansiBrightMagenta": "#E64CE6",
         "terminal.ansiBrightRed": "#F05050",
-        "terminal.ansiBrightYellow": "#FFBC5D"
+        "terminal.ansiBrightYellow": "#FFBC5D",
+        "editorRuler.foreground": "#202020"
     }
 }
