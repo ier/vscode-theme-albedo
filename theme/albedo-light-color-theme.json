@@ -111,11 +111,11 @@
         "list.activeSelectionBackground": "#9b9b9b",
         "list.focusBackground": "#a5a5a5aa",
         "list.highlightForeground": "#e4e4e4",
-        "list.hoverBackground": "#7a7a7a66",
+        "list.hoverBackground": "#bdbdbd66",
         "list.inactiveSelectionBackground": "#cfcfcf",
 
-        "menu.background": "#313131",
-        "menu.foreground": "#c2c0bf",
+        "menu.background": "#ebebeb",
+        "menu.foreground": "#303030",
 
         "editor.background": "#FFF",
         "editor.foreground": "#000000c0",
