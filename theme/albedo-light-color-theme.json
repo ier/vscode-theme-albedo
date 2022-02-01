@@ -108,11 +108,11 @@
 
         "focusBorder": "#acacac",
 
-        "list.activeSelectionBackground": "#9b9b9b",
+        "list.activeSelectionBackground": "#b9b9b9",
         "list.focusBackground": "#a5a5a5aa",
         "list.highlightForeground": "#e4e4e4",
         "list.hoverBackground": "#bdbdbd66",
-        "list.inactiveSelectionBackground": "#cfcfcf",
+        "list.inactiveSelectionBackground": "#e2e2e2",
 
         "menu.background": "#ebebeb",
         "menu.foreground": "#303030",
@@ -120,7 +120,7 @@
         "editor.background": "#FFF",
         "editor.foreground": "#000000c0",
         "editor.findMatchBackground": "#FFCC6D",
-        "editor.lineHighlightBackground": "#00000004",
+        "editor.lineHighlightBackground": "#0000000a",
         "editor.selectionBackground": "#B3D7FF",
         "editor.selectionHighlightBackground": "#E1E1E1",
         "editor.findMatchHighlightBackground": "#FEE8A6",
@@ -136,8 +136,8 @@
         "statusBar.foreground": "#424242",
         "statusBar.debuggingBackground": "#FFCC6D",
         "statusBar.debuggingForeground": "#000",
-        "statusBar.noFolderBackground": "#000",
-        "statusBar.noFolderForeground": "#ececec",
+        "statusBar.noFolderBackground": "#DDDDDD",
+        "statusBar.noFolderForeground": "#7a7a7a",
 
         "terminal.ansiWhite": "#FFF",
         "terminal.ansiBlack": "#000000",
