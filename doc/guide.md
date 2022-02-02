@@ -8,6 +8,8 @@ _. vsce publish
 
 Ctrl + P, > Developer: Inspect Editor Tokens and Scopes
 
+https://code.visualstudio.com/docs/getstarted/userinterface
+https://code.visualstudio.com/api/references/theme-color
 
 https://code.visualstudio.com/api/extension-capabilities/theming
 https://code.visualstudio.com/api/language-extensions/overview
